@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd siso-simulator && npm install && npm run build",
+  "outputDirectory": "siso-simulator/dist",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

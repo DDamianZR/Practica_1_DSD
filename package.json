@@ -1,0 +1,9 @@
+{
+  "name": "practica-1-dsd",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd siso-simulator && npm run dev",
+    "build": "cd siso-simulator && npm install && npm run build"
+  }
+}
